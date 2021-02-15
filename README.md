@@ -1,9 +1,9 @@
 # My data science portfolio
 
 # [Project 1. Basic Feature Discovering for Machine Learning: Overview](https://github.com/irfanarga/Basic-Feature-Discovering-for-Machine-Learning)
-* The goals are comparing the model with feature engineering and without feature engineering 
-* Using Titanic dataset from Kaggle and set Survived variable as the target
-* Makes feature engineering by adding an extra column to increasing model accurate
-* Using Random Forest Classification and cross_val_score to measuring model accurate
+* Tujuan project ini yaitu membandingkan akurasi antara model dengan Feature Engineering (FE) dengan model tanpa FE 
+* Menggunakan dataset Titanic dari Kaggle yang berisi data penumpang kapal Titanic dan menjadikan kolom Survived sebagai variabel target
+* Menambahkan fitur baru berdasarkan data yang ada untuk meningkatkan akurasi model 
+* Akurasi model Random Forest Classification meningkat 2% setelah dilakukan Feature Engineering
 
 
