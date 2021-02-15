@@ -1,5 +1,4 @@
-# Irfan Portfolio
-My data science portfolio
+# My data science portfolio
 
 # [Project 1. Basic Feature Discovering for Machine Learning: Overview](https://github.com/irfanarga/Basic-Feature-Discovering-for-Machine-Learning)
 * The goal is comparing between model accuration with feature engineering and without feature engineering 
