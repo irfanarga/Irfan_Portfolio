@@ -4,10 +4,13 @@
 * The goals are comparing the model with feature engineering and without feature engineering 
 * Using Titanic dataset from Kaggle and set Survived variable as the target
 * Makes feature engineering by adding an extra column to increasing model accurate
-* Using Random Forest Classification and Cross Val Score to measuring model accurate
+* Using Random Forest Classification and cross_val_score to measuring model accurate
 
-![Model with FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20with%20FE.png)
 Model with FE
 
-![Model without FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20without%20FE.png)
+![Model with FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20with%20FE.png)
+
 Model without FE
+
+![Model without FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20without%20FE.png)
+
