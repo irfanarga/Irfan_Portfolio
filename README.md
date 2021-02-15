@@ -7,4 +7,7 @@ My data science portfolio
 * Using Random Forest Classification and Cross Val Score to measuring model accuration
 
 ![Model with FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20with%20FE.png)
+Model with FE
+
 ![Model without FE](https://github.com/irfanarga/Irfan_Portfolio/blob/main/Image_project_1/Model%20accuration%20without%20FE.png)
+Model without FE
