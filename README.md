@@ -15,5 +15,6 @@
 * Membandingkan akurasi model Logistic Regression, Random Forest Classifier, dan Gradient Boosting Classifier
 * Model terbaik hasil pengujian project ini adalah Logistic Regression dimana tingkat akurasi model saat training dan testing tidak berbeda jauh, masing-masing yaitu 80% dan 79%.
 
-![](https://github.com/irfanarga/Customer_churn_Prediction/blob/master/images/pemodelan/LR%20matrix%20plot%20test.png)
 ![](https://github.com/irfanarga/Customer_churn_Prediction/blob/master/images/pemodelan/LR%20matrix%20train.png)
+![](https://github.com/irfanarga/Customer_churn_Prediction/blob/master/images/pemodelan/RDF%20matrix%20train.png)
+![](https://github.com/irfanarga/Customer_churn_Prediction/blob/master/images/pemodelan/GBT%20matrix%20train.png)
