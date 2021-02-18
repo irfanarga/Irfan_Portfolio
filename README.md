@@ -7,7 +7,6 @@
 * Akurasi model Random Forest Classifier meningkat 2% setelah dilakukan Feature Engineering
 
 ![](/Image_project_1/Model%20accuration%20without%20FE.png)
-
 ![](/Image_project_1/Model%20accuration%20with%20FE.png)
 
 # [Project 2. Customer Churn Prediction using Machine Learning: Overview](https://github.com/irfanarga/Customer_churn_Prediction)
@@ -17,7 +16,6 @@
 * Model terbaik hasil pengujian project ini adalah Logistic Regression dimana tingkat akurasi model saat training dan testing tidak berbeda jauh, masing-masing yaitu 80% dan 79%.
 
 ![](/Image_project_2/LR%20matrix%20train.png)
-
 ![](/Image_project_2/LR%20matrix%20tes.png)
 
 # [Project 3. Business Decision Research: Overview](https://github.com/irfanarga/Business_decision_research)
@@ -26,5 +24,4 @@
 * Akurasi training dan testing model memiliki nilai yang sama yaitu 67%
 
 ![](/Image_project_3/Score%20training.PNG)
-
 ![](/Image_project_3/Score%20testing.PNG)
