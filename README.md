@@ -4,7 +4,7 @@
 
 # [Project 2. Customer Churn Prediction using Machine Learning](https://github.com/irfanarga/Customer_churn_Prediction/blob/master/Notebook.ipynb)
 
-# [Project 3. Business Decision Research](https://github.com/irfanarga/Business_decision_research)
+# [Project 3. Business Decision Research](https://github.com/irfanarga/Business_decision_research/blob/master/Notebook.ipynb)
 
 # [Project 4. Customer Segmentation](https://github.com/irfanarga/Customer_segmentation/blob/master/Notebook.ipynb)
 
