@@ -6,6 +6,6 @@
 
 # [Project 3. Business Decision Research](https://github.com/irfanarga/Business_decision_research)
 
-# [Project 4. Customer Segmentation](https://github.com/irfanarga/Customer_segmentation)
+# [Project 4. Customer Segmentation](https://github.com/irfanarga/Customer_segmentation/blob/master/Notebook.ipynb)
 
 # [Project 5. Analyzing TV Data](https://github.com/irfanarga/AnalyzingTVData/blob/master/notebook.ipynb)
