@@ -1,6 +1,6 @@
 # Irfan Arga Prasetya
 
-# [Project 1. Basic Feature Discovering for Machine Learning](https://github.com/irfanarga/Basic-Feature-Discovering-for-Machine-Learning)
+# [Project 1. Basic Feature Discovering for Machine Learning](https://github.com/irfanarga/Basic_Feature_Discovering_for_Machine_Learning/blob/master/Notebook.ipynb)
 
 # [Project 2. Customer Churn Prediction using Machine Learning](https://github.com/irfanarga/Customer_churn_Prediction)
 
